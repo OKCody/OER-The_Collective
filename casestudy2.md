@@ -1,6 +1,6 @@
 # Case Study 2: Case Study 2: A Quick Guide to Finding Books and Articles
 
-This lesson combines material from two classes:
+This lesson combines material from three classes:
 
 David Getman and Paula Sanders' "Searching Online Catalogs: WebCat"  
 <http://cnx.org/content/m12527/1.5/>
